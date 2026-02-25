@@ -1,0 +1,6 @@
+10 x=0.5
+20 while x<5
+30 if x*x+3*x-4=0 then print x
+
+40 x=x+0.5
+50 wend
